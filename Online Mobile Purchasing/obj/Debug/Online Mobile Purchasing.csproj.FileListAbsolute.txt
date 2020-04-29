@@ -1,0 +1,27 @@
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\bin\Debug\Online Mobile Purchasing.exe.config
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\bin\Debug\Online Mobile Purchasing.exe
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\bin\Debug\Online Mobile Purchasing.pdb
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online Mobile Purchasing.csprojAssemblyReference.cache
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.Form1.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.Properties.Resources.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online Mobile Purchasing.csproj.GenerateResource.cache
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online Mobile Purchasing.csproj.CoreCompileInputs.cache
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online Mobile Purchasing.exe
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online Mobile Purchasing.pdb
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\bin\Debug\Database2.mdf
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\bin\Debug\Database2_log.ldf
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.Appbody.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.Aboutusercontrol.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.Cartusercontrol.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.Mobileusercontrol.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.Personusercontrol.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.SettingsuserControl.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.Transactionusercontrol.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.connect.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.admin.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.Addmobile.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.Deletemobile.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.updatemobile.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.Addsellers.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.updatesellers.resources
+C:\Users\Tarun\source\repos\Online Mobile Purchasing\Online Mobile Purchasing\obj\Debug\Online_Mobile_Purchasing.Delete_Sellers.resources
